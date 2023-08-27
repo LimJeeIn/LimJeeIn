@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?text=Hello%World!&fontColor=d6ace6&animation=fadeIn&type=waving&height=120)
 ### ⚡ Hi there 
-프론트엔드 주니어 개발자 임지인입니다.
+프론트엔드 주니어 개발자로서 변화와 도전을 추구하는 개발자입니다
 <!--
 **LimJeeIn/LimJeeIn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
