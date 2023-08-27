@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?text=Hello%World!&fontColor=d6ace6&animation=fadeIn&type=waving)
+![header](https://capsule-render.vercel.app/api?text=Hello%World!&fontColor=d6ace6&animation=fadeIn&type=waving&height=120)
 ### Hi there 💜
 프론트엔드 주니어 개발자 임지인입니다.
 <!--
